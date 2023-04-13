@@ -1,0 +1,15 @@
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\bin\Debug\net7.0\collectionwork3.exe
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\bin\Debug\net7.0\collectionwork3.deps.json
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\bin\Debug\net7.0\collectionwork3.runtimeconfig.json
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\bin\Debug\net7.0\collectionwork3.dll
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\bin\Debug\net7.0\collectionwork3.pdb
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.csproj.AssemblyReference.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.AssemblyInfoInputs.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.AssemblyInfo.cs
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.csproj.CoreCompileInputs.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.dll
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\refint\collectionwork3.dll
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.pdb
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\collectionwork3.genruntimeconfig.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork3\obj\Debug\net7.0\ref\collectionwork3.dll
