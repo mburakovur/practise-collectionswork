@@ -1,0 +1,15 @@
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\bin\Debug\net7.0\collectionwork2.exe
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\bin\Debug\net7.0\collectionwork2.deps.json
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\bin\Debug\net7.0\collectionwork2.runtimeconfig.json
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\bin\Debug\net7.0\collectionwork2.dll
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\bin\Debug\net7.0\collectionwork2.pdb
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.csproj.AssemblyReference.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.AssemblyInfoInputs.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.AssemblyInfo.cs
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.csproj.CoreCompileInputs.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.dll
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\refint\collectionwork2.dll
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.pdb
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\collectionwork2.genruntimeconfig.cache
+C:\Users\domain\Desktop\vscode\practise\collectionwork2\obj\Debug\net7.0\ref\collectionwork2.dll
